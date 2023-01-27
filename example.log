@@ -258,3 +258,1288 @@ INFO:werkzeug: * Detected change in '/home/rayen/Desktop/Relead/Embedded-System/
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 396-188-218
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 10:48:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 10:48:20] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:22:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:22:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:29:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:29:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:29:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:29:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:29:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:30:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:30:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:30:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:30:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:30:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:31:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:31:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:31:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:31:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:31:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:31:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:31:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:31:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:32:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:32:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:32:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:32:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:33:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:33:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:33:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:39:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:39:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:39:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:40:14] "[33mGET /index HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:43:12] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:43:12] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:43:12] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:43:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 11:43:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:12:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:12:53] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:12:53] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:12:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:12:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:12:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:12:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:12:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:12:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:12:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:13:19] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:13:20] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:13:20] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:13:20] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:13:20] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:13:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:13:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:13:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:13:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:14:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:14:40] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:14:40] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:14:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:14:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:14:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:14:46] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:14:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:14:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:14:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:24] "GET /Install_Now HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:40] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:40] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:55] "[35m[1mGET /init HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:55] "GET /init?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:55] "GET /init?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:55] "GET /init?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:15:55] "[36mGET /init?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:18:18] "GET /init HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:18:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:19:26] "GET /init HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 12:19:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 14:44:35] "[33mGET /init HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 14:44:37] "[33mGET /init HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 14:47:12] "[33mGET /init HTTP/1.1[0m" 404 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 14:47:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 14:47:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 14:51:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 14:51:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 15:12:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 15:12:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 15:22:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 15:22:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 15:23:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 15:23:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 15:24:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 15:24:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 15:24:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:01:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:01:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:04:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:04:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:04:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:04:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:04:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:04:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:05:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:05:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:06:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:06:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:08:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:08:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:08:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:08:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:09:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:09:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:10:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:10:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:12:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:12:04] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:12:04] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:12:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:12:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:12:46] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:12:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:12:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:12:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:13:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:13:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:13:28] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:13:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:13:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:14:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:14:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:15:00] "[35m[1mPOST /result HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:15:00] "GET /result?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:15:00] "GET /result?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:15:00] "GET /result?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:15:01] "[36mGET /result?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:15:04] "[35m[1mPOST /result HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:15:04] "[36mGET /result?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:15:05] "[36mGET /result?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:15:05] "[36mGET /result?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:16:49] "[35m[1mPOST /result HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:16:49] "[36mGET /result?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:16:49] "[36mGET /result?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:16:49] "[36mGET /result?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:16:49] "[36mGET /result?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:18:13] "[35m[1mPOST /result HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:18:13] "[36mGET /result?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:18:13] "[36mGET /result?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:18:13] "[36mGET /result?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:18:14] "[36mGET /result?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:19:07] "[35m[1mPOST /result HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:19:08] "[36mGET /result?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:19:08] "[36mGET /result?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:19:08] "[36mGET /result?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:19:08] "[36mGET /result?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:19:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:19:13] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:19:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:19:15] "[35m[1mPOST /result HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:19:15] "[36mGET /result?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:19:15] "[36mGET /result?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:19:16] "[36mGET /result?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:23:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:23:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:23:43] "[35m[1mPOST /install HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:23:43] "GET /install?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:23:43] "GET /install?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:23:43] "GET /install?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:23:44] "[36mGET /install?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:24:49] "[35m[1mPOST /install HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:24:49] "[36mGET /install?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:24:49] "[36mGET /install?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:24:50] "[36mGET /install?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:24:50] "[36mGET /install?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:27:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:27:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:PC / Windows 10 / Opera 93.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:27:16] "[35m[1mPOST /install HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:27:16] "[36mGET /install?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:27:17] "[36mGET /install?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:27:17] "[36mGET /install?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:PC / Windows 10 / Opera 93.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:27:42] "[35m[1mPOST /install HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:27:43] "[36mGET /install?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:27:43] "[36mGET /install?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:27:43] "[36mGET /install?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:27:43] "[36mGET /install?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:28:04] "GET / HTTP/1.1" 200 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:28:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:28:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:PC / Windows 10 / Opera 93.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:28:06] "[35m[1mPOST /install HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:28:06] "[36mGET /install?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:28:06] "[36mGET /install?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:28:06] "[36mGET /install?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:PC / Windows 10 / Opera 93.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:30:01] "[35m[1mPOST /install HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:30:01] "[36mGET /install?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:30:01] "[36mGET /install?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:30:01] "[36mGET /install?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:30:01] "[36mGET /install?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:PC / Windows 10 / Opera 93.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:30:40] "POST /install HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:30:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:31:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:31:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:PC / Windows 10 / Opera 93.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:31:32] "POST /install HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:31:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.31.218:8078
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 16:37:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 16:37:36] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 16:37:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:PC / Windows 10 / Opera 93.0.0
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 16:40:04] "GET /install HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 16:40:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.31.218:8078
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 16:41:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 16:41:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 16:42:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 16:42:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.31.218:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 16:43:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 16:43:50] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 16:43:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:53:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:53:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:53:50] "GET / HTTP/1.1" 200 -
+INFO:root:PC / Windows 10 / Opera 93.0.0
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:53:54] "POST /install HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jan/2023 16:53:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\21626\\Desktop\\test1\\test-repo\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.31.218:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-609-667
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 17:00:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 17:00:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:***** Server running *****
+INFO:root:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0
+INFO:root:Browser full data: Browser(family='Opera', version=(93, 0, 0), version_string='93.0.0')
+INFO:root:Browser familly: Opera
+INFO:root:Browser version: (93, 0, 0)
+INFO:root:OS full data: OperatingSystem(family='Windows', version=(10,), version_string='10')
+INFO:root:OS familly: Windows
+INFO:root:OS version: (10,)
+INFO:root:Device full data: Device(family='Other', brand=None, model=None)
+INFO:root:Device familly: Other
+INFO:root:Device brand: None
+INFO:root:Device model: None
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 17:03:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 17:03:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:PC / Windows 10 / Opera 93.0.0
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 17:03:45] "POST /install HTTP/1.1" 200 -
+INFO:werkzeug:192.168.31.218 - - [27/Jan/2023 17:03:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
